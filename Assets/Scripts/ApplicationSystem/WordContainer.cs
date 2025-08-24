@@ -25,6 +25,7 @@ public class WordContainer : MonoBehaviour
     [SerializeField] Button speackButton2;
     [SerializeField] Button speackButton3;
     [SerializeField] Button speackButton4;
+    [SerializeField] Button speackButton5;
 
 
 
@@ -57,6 +58,7 @@ public class WordContainer : MonoBehaviour
     [SerializeField] private ExampleSentences example2;
     [SerializeField] private ExampleSentences example3;
     [SerializeField] private ExampleSentences example4;
+    [SerializeField] private ExampleSentences example5;
 
     private bool isExpanded = false;
 
@@ -86,6 +88,11 @@ public class WordContainer : MonoBehaviour
                 TTSPiper.Instance.SpeackThisText(example4.englishText.text);
         });
 
+        speackButton5.onClick.AddListener(() =>
+        {
+            if (example5.englishText.text != null && !string.IsNullOrEmpty(example5.englishText.text))
+                TTSPiper.Instance.SpeackThisText(example5.englishText.text);
+        });
 
 
 
@@ -109,7 +116,9 @@ public class WordContainer : MonoBehaviour
         example1?.Set(list.Count > 0 ? list[0] : null, hideUnusedExampleRows);
         example2?.Set(list.Count > 1 ? list[1] : null, hideUnusedExampleRows);
         example3?.Set(list.Count > 2 ? list[2] : null, hideUnusedExampleRows);
-        example4?.Set(list.Count > 2 ? list[3] : null, hideUnusedExampleRows);
+        example4?.Set(list.Count > 3 ? list[3] : null, hideUnusedExampleRows);
+        example5?.Set(list.Count > 4 ? list[4] : null, hideUnusedExampleRows);
+
 
     }
 

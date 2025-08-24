@@ -8,7 +8,7 @@ using System.Collections;
 using System.Runtime.InteropServices;
 using UnityEngine;
 using TMPro;
-
+#if UNITY_STANDALONE_WIN
 public class BorderlessExactResizer : MonoBehaviour
 {
     [Header("UI (optional)")]
@@ -219,3 +219,4 @@ public class BorderlessExactResizer : MonoBehaviour
     public void BeginDrag() { } // no-op on non-Windows
 #endif
 }
+#endif
