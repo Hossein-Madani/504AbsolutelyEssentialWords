@@ -1,0 +1,269 @@
+{
+  "lesson": 1,
+  "words": [
+    {
+      "english": "abandon",
+      "persian": "رها کردن، ترک کردن",
+      "examples": [
+        {
+          "english": "He abandoned his bike.",
+          "persian": "او دوچرخه‌اش را رها کرد."
+        },
+        {
+          "english": "They had to abandon the car in the storm.",
+          "persian": "آنها مجبور شدند ماشین را در طوفان رها کنند."
+        },
+        {
+          "english": "The explorers abandoned their camp when supplies ran out.",
+          "persian": "کاوشگران وقتی تدارکات تمام شد، اردوگاهشان را ترک کردند."
+        },
+        {
+          "english": "The research team abandoned the hypothesis after repeated experimental failures invalidated it.",
+          "persian": "تیم تحقیقاتی پس از شکست‌های آزمایشی مکرر که آن را باطل کرد، فرضیه را رها کرد."
+        }
+      ]
+    },
+    {
+      "english": "keen",
+      "persian": "مشتاق، تیز، قوی",
+      "examples": [
+        {
+          "english": "He is keen to play football.",
+          "persian": "او مشتاق است فوتبال بازی کند."
+        },
+        {
+          "english": "She is very keen to learn new skills.",
+          "persian": "او بسیار مشتاق یادگیری مهارت‌های جدید است."
+        },
+        {
+          "english": "Dogs have a keen sense of smell.",
+          "persian": "سگ‌ها حس بویایی قوی دارند."
+        },
+        {
+          "english": "The scientist displayed a keen analytical mind in interpreting complex data.",
+          "persian": "دانشمند ذهن تحلیلی تیزبینی در تفسیر داده‌های پیچیده نشان داد."
+        }
+      ]
+    },
+    {
+      "english": "jealous",
+      "persian": "حسود، غیور",
+      "examples": [
+        {
+          "english": "She was jealous of her sister’s toy.",
+          "persian": "او به اسباب‌بازی خواهرش حسادت می‌کرد."
+        },
+        {
+          "english": "He was jealous of his friend's success.",
+          "persian": "او به موفقیت دوستش حسادت می‌کرد."
+        },
+        {
+          "english": "She grew jealous when her colleague was promoted.",
+          "persian": "وقتی همکارش ارتقا گرفت، او حسادت کرد."
+        },
+        {
+          "english": "The novel explores the destructive effects of jealous obsessions in relationships.",
+          "persian": "این رمان اثرات مخرب وسواس‌های حسودانه در روابط را بررسی می‌کند."
+        }
+      ]
+    },
+    {
+      "english": "tact",
+      "persian": "درایت، نزاکت",
+      "examples": [
+        {
+          "english": "He spoke with tact.",
+          "persian": "او با نزاکت صحبت کرد."
+        },
+        {
+          "english": "It takes tact to handle such a situation.",
+          "persian": "برای مدیریت چنین موقعیتی درایت لازم است."
+        },
+        {
+          "english": "Diplomats must act with tact in sensitive negotiations.",
+          "persian": "دیپلمات‌ها باید در مذاکرات حساس با درایت عمل کنند."
+        },
+        {
+          "english": "Her tactful mediation prevented escalation of the international dispute.",
+          "persian": "میانجی‌گری درایت‌آمیز او از تشدید مناقشه بین‌المللی جلوگیری کرد."
+        }
+      ]
+    },
+    {
+      "english": "oath",
+      "persian": "قسم، سوگند",
+      "examples": [
+        {
+          "english": "He made an oath to tell the truth.",
+          "persian": "او قسم خورد حقیقت را بگوید."
+        },
+        {
+          "english": "The witness swore an oath in court.",
+          "persian": "شاهد در دادگاه سوگند خورد."
+        },
+        {
+          "english": "Breaking an official oath has serious consequences.",
+          "persian": "شکستن یک سوگند رسمی پیامدهای جدی دارد."
+        },
+        {
+          "english": "The constitution requires officials to take an oath of allegiance before office.",
+          "persian": "قانون اساسی از مقامات می‌خواهد پیش از مسئولیت، سوگند وفاداری یاد کنند."
+        }
+      ]
+    },
+    {
+      "english": "vacant",
+      "persian": "خالی، اشغال‌نشده",
+      "examples": [
+        {
+          "english": "The chair is vacant.",
+          "persian": "صندلی خالی است."
+        },
+        {
+          "english": "There was a vacant seat on the bus.",
+          "persian": "یک صندلی خالی در اتوبوس بود."
+        },
+        {
+          "english": "The store has vacant positions.",
+          "persian": "فروشگاه موقعیت‌های شغلی خالی دارد."
+        },
+        {
+          "english": "Urban planners studied the distribution of vacant properties.",
+          "persian": "برنامه‌ریزان شهری پراکندگی املاک خالی را بررسی کردند."
+        }
+      ]
+    },
+    {
+      "english": "hardship",
+      "persian": "سختی، مشقت",
+      "examples": [
+        {
+          "english": "The exam caused hardship.",
+          "persian": "امتحان سختی ایجاد کرد."
+        },
+        {
+          "english": "They faced hardships during the war.",
+          "persian": "آنها در جنگ سختی‌ها کشیدند."
+        },
+        {
+          "english": "Immigrants endure hardships adapting to new culture.",
+          "persian": "مهاجران برای سازگاری با فرهنگ جدید سختی می‌کشند."
+        },
+        {
+          "english": "The study examined socioeconomic hardships of marginalized groups.",
+          "persian": "پژوهش سختی‌های اجتماعی-اقتصادی گروه‌های به حاشیه رانده شده را بررسی کرد."
+        }
+      ]
+    },
+    {
+      "english": "gallant",
+      "persian": "شجاع، جوانمرد",
+      "examples": [
+        {
+          "english": "The gallant knight saved the boy.",
+          "persian": "شوالیه شجاع پسر را نجات داد."
+        },
+        {
+          "english": "The gallant soldier saved his friend.",
+          "persian": "سرباز شجاع دوستش را نجات داد."
+        },
+        {
+          "english": "The gallant firefighter entered the burning building.",
+          "persian": "آتش‌نشان شجاع وارد ساختمان در حال سوختن شد."
+        },
+        {
+          "english": "History remembers gallant fighters who resisted tyranny.",
+          "persian": "تاریخ مبارزان شجاعی را که با استبداد مقابله کردند به یاد دارد."
+        }
+      ]
+    },
+    {
+      "english": "data",
+      "persian": "داده‌ها، اطلاعات",
+      "examples": [
+        {
+          "english": "Enter the data.",
+          "persian": "داده‌ها را وارد کن."
+        },
+        {
+          "english": "The computer processes data.",
+          "persian": "کامپیوتر داده‌ها را پردازش می‌کند."
+        },
+        {
+          "english": "The researcher collected data from 500 people.",
+          "persian": "پژوهشگر داده‌ها را از ۵۰۰ نفر جمع‌آوری کرد."
+        },
+        {
+          "english": "Big data analytics identifies patterns in consumer behavior.",
+          "persian": "تحلیل داده‌های عظیم الگوهای رفتار مصرف‌کننده را شناسایی می‌کند."
+        }
+      ]
+    },
+    {
+      "english": "unaccustomed",
+      "persian": "عادت‌نداشته، ناآشنا",
+      "examples": [
+        {
+          "english": "He is unaccustomed to spicy food.",
+          "persian": "او به غذای تند عادت ندارد."
+        },
+        {
+          "english": "She was unaccustomed to hot weather.",
+          "persian": "او به هوای گرم عادت نداشت."
+        },
+        {
+          "english": "He was unaccustomed to public speaking.",
+          "persian": "او به سخنرانی عمومی عادت نداشت."
+        },
+        {
+          "english": "Unaccustomed to academic rigor, the student struggled with advanced coursework.",
+          "persian": "چون به سختی‌های آکادمیک عادت نداشت، دانشجو با درس‌های پیشرفته مشکل داشت."
+        }
+      ]
+    },
+    {
+      "english": "bachelor",
+      "persian": "مرد مجرد",
+      "examples": [
+        {
+          "english": "He is a young bachelor.",
+          "persian": "او یک مرد مجرد جوان است."
+        },
+        {
+          "english": "He lived alone as a bachelor.",
+          "persian": "او به‌عنوان یک مرد مجرد تنها زندگی می‌کرد."
+        },
+        {
+          "english": "The party was full of bachelors.",
+          "persian": "مهمانی پر از مردان مجرد بود."
+        },
+        {
+          "english": "Sociologists studied the lifestyle of urban bachelors.",
+          "persian": "جامعه‌شناسان سبک زندگی مردان مجرد شهری را بررسی کردند."
+        }
+      ]
+    },
+    {
+      "english": "qualify",
+      "persian": "واجد شرایط شدن، صلاحیت پیدا کردن",
+      "examples": [
+        {
+          "english": "She qualified for a free ticket.",
+          "persian": "او واجد شرایط یک بلیط رایگان شد."
+        },
+        {
+          "english": "She qualified as a doctor last year.",
+          "persian": "او سال گذشته پزشک شد."
+        },
+        {
+          "english": "He failed to qualify for the finals.",
+          "persian": "او نتوانست برای فینال صلاحیت کسب کند."
+        },
+        {
+          "english": "Athletes must qualify through trials for the international championship.",
+          "persian": "ورزشکاران باید از طریق مسابقات برای قهرمانی بین‌المللی صلاحیت کسب کنند."
+        }
+      ]
+    }
+  ]
+}

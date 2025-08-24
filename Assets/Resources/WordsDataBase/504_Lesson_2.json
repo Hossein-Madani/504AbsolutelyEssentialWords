@@ -1,0 +1,173 @@
+{
+  "lesson": 1,
+  "words": [
+    {
+      "english": "abandon",
+      "persian": "رها کردن، ترک کردن",
+      "examples": [
+        {
+          "english": "They had to abandon the car in the storm.",
+          "persian": "آنها مجبور شدند ماشین را در طوفان رها کنند."
+        },
+        {
+          "english": "She abandoned her old plan after the meeting.",
+          "persian": "او پس از جلسه برنامهٔ قدیمی‌اش را کنار گذاشت."
+        }
+      ]
+    },
+    {
+      "english": "keenmm",
+      "persian": "مشتاق، تیز، قوی",
+      "examples": [
+        {
+          "english": "She is very keen to learn new skills.",
+          "persian": "او بسیار مشتاق یادگیری مهارت‌های جدید است."
+        },
+        {
+          "english": "Dogs have a keen sense of smell.",
+          "persian": "سگ‌ها حس بویایی بسیار قوی دارند."
+        }
+      ]
+    },
+    {
+      "english": "jealous",
+      "persian": "حسود، غیور",
+      "examples": [
+        {
+          "english": "He was jealous of his friend's success.",
+          "persian": "او به موفقیت دوستش حسادت می‌کرد."
+        },
+        {
+          "english": "She felt jealous when she saw them together.",
+          "persian": "وقتی آن‌ها را با هم دید، حس حسادت به او دست داد."
+        }
+      ]
+    },
+    {
+      "english": "tact",
+      "persian": "درایت، نزاکت",
+      "examples": [
+        {
+          "english": "It takes tact to handle such a situation.",
+          "persian": "برای مدیریت چنین موقعیتی درایت لازم است."
+        },
+        {
+          "english": "With great tact, he changed the topic.",
+          "persian": "او با نزاکت زیاد موضوع را عوض کرد."
+        }
+      ]
+    },
+    {
+      "english": "oath",
+      "persian": "قسم، سوگند",
+      "examples": [
+        {
+          "english": "He took an oath to serve his country.",
+          "persian": "او سوگند خورد که به کشورش خدمت کند."
+        },
+        {
+          "english": "The witness swore an oath to tell the truth.",
+          "persian": "شاهد سوگند خورد که حقیقت را بگوید."
+        }
+      ]
+    },
+    {
+      "english": "vacant",
+      "persian": "خالی، اشغال‌نشده",
+      "examples": [
+        {
+          "english": "There was only one vacant seat on the bus.",
+          "persian": "فقط یک صندلی خالی در اتوبوس بود."
+        },
+        {
+          "english": "The store has several vacant positions.",
+          "persian": "فروشگاه چند جایگاه خالی برای استخدام دارد."
+        }
+      ]
+    },
+    {
+      "english": "hardship",
+      "persian": "سختی، مشقت",
+      "examples": [
+        {
+          "english": "They went through many hardships during the war.",
+          "persian": "آنها در طول جنگ سختی‌های زیادی کشیدند."
+        },
+        {
+          "english": "After months of hardship, the team finally won.",
+          "persian": "پس از ماه‌ها سختی، تیم بالاخره پیروز شد."
+        }
+      ]
+    },
+    {
+      "english": "gallant",
+      "persian": "شجاع، جوانمرد",
+      "examples": [
+        {
+          "english": "The gallant soldier saved his friend's life.",
+          "persian": "سرباز شجاع جان دوستش را نجات داد."
+        },
+        {
+          "english": "He made a gallant attempt to solve the problem.",
+          "persian": "او تلاش جوانمردانه‌ای برای حل مشکل کرد."
+        }
+      ]
+    },
+    {
+      "english": "data",
+      "persian": "داده‌ها، اطلاعات",
+      "examples": [
+        {
+          "english": "The computer processes large amounts of data.",
+          "persian": "کامپیوتر حجم زیادی داده را پردازش می‌کند."
+        },
+        {
+          "english": "We need more data before making a decision.",
+          "persian": "قبل از تصمیم‌گیری به داده‌های بیشتری نیاز داریم."
+        }
+      ]
+    },
+    {
+      "english": "unaccustomed",
+      "persian": "عادت‌نداشته، ناآشنا",
+      "examples": [
+        {
+          "english": "She was unaccustomed to the hot weather.",
+          "persian": "او به هوای گرم عادت نداشت."
+        },
+        {
+          "english": "He felt unaccustomed to speaking in public.",
+          "persian": "او به صحبت کردن در جمع عادت نداشت."
+        }
+      ]
+    },
+    {
+      "english": "bachelor",
+      "persian": "مرد مجرد",
+      "examples": [
+        {
+          "english": "He lived alone as a bachelor.",
+          "persian": "او به‌عنوان یک مرد مجرد تنها زندگی می‌کرد."
+        },
+        {
+          "english": "The party was full of young bachelors.",
+          "persian": "مهمانی پر از مردان مجرد جوان بود."
+        }
+      ]
+    },
+    {
+      "english": "qualify",
+      "persian": "واجد شرایط شدن، صلاحیت پیدا کردن",
+      "examples": [
+        {
+          "english": "She qualified as a doctor last year.",
+          "persian": "او سال گذشته به‌عنوان پزشک صلاحیت پیدا کرد."
+        },
+        {
+          "english": "He failed to qualify for the final round.",
+          "persian": "او نتوانست برای دور نهایی صلاحیت کسب کند."
+        }
+      ]
+    }
+  ]
+}
